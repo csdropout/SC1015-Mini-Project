@@ -4,8 +4,8 @@
 This is our mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence), which is a movie recommendation system built from the Rotten Tomatoes Movie dataset obtained from Kaggle.
 
 ## Contributors
-.@csdropout
-.@RandallCher
+- @csdropout
+- @RandallCher
 
 ## Problem Definition
 How can we find movies that are similar to those we enjoyed watching?
